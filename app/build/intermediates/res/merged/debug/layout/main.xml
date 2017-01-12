@@ -1,0 +1,29 @@
+
+    <AbsoluteLayout android:id="@+id/absoluteLayout1" 
+       android:layout_width="fill_parent" 
+       android:layout_height="fill_parent"
+       android:background="@drawable/mainactivity"
+       xmlns:android="http://schemas.android.com/apk/res/android" >
+       
+       <EditText android:id="@+id/edittext_scanresult"
+			android:layout_width="fill_parent" android:text="@+string/PROMOT_CLICK_SCAN_BUTTON"
+			android:editable="false" android:textSize="18dip"
+			android:cursorVisible="false" android:background="@android:color/transparent"
+			android:layout_height="150dip" android:layout_x="1dip"
+			android:layout_y="40dip"
+			android:singleLine="false"
+            android:scrollHorizontally="false"
+            android:maxLines="15">
+		</EditText>
+     <Button 
+            android:background="@drawable/android_button" 
+            android:id="@+id/scanbutton" 
+            android:layout_width="175dip" 
+            android:layout_height="45dip" 
+            android:layout_x="80dip" 
+            android:layout_y="367dip" >
+      </Button>
+    </AbsoluteLayout>
+
+
+ 

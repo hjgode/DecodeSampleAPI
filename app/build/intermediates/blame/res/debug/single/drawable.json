@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_normal.jpg",
+        "source": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\src\\main\\res\\drawable\\android_normal.jpg"
+    },
+    {
+        "merged": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainactivity.png",
+        "source": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\src\\main\\res\\drawable\\mainactivity.png"
+    },
+    {
+        "merged": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_focused.jpg",
+        "source": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\src\\main\\res\\drawable\\android_focused.jpg"
+    },
+    {
+        "merged": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_pressed.jpg",
+        "source": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\src\\main\\res\\drawable\\android_pressed.jpg"
+    },
+    {
+        "merged": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_button.xml",
+        "source": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\src\\main\\res\\drawable\\android_button.xml"
+    }
+]

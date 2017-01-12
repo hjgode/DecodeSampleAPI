@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Thu Jan 12 14:22:58 CET 2017
+2.base=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi\\icon.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.base=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\android_button.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\buzz.ogg
+4.set=ANDROID_RESOURCE
+6.base=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\beep.ogg
+9.set=ANDROID_RESOURCE
+9.file=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\android_pressed.jpg
+10.base=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\android_focused.jpg
+6.set=ANDROID_RESOURCE
+0.base=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\mainactivity.png
+3.set=ANDROID_RESOURCE
+1.base=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\android_normal.jpg
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\build\\intermediates\\res\\merged\\debug\\raw\\buzz.ogg",
+        "source": "D:\\C-Source\\android\\DecodeSampleAPI\\app\\src\\main\\res\\raw\\buzz.ogg"
+    }
+]

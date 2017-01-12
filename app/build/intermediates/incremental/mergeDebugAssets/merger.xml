@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\C-Source\android\DecodeSampleAPI\app\src\main\assets"/><source path="D:\C-Source\android\DecodeSampleAPI\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\C-Source\android\DecodeSampleAPI\app\src\debug\assets"/></dataSet></merger>

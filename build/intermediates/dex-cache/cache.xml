@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\C-Source\android\DecodeSampleAPI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="19.1.0"
+        sha1="cad78d68d91ede1a466197a3939ff27e4f7fcc5f">
+        <dex dex="D:\C-Source\android\DecodeSampleAPI\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_80e0857c7b046c8c233953da78611efe79c6a68f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\C-Source\android\DecodeSampleAPI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="19.1.0"
+        sha1="d646a3f2cc30e0de238a7116122cf2566287bb7f">
+        <dex dex="D:\C-Source\android\DecodeSampleAPI\app\build\intermediates\pre-dexed\debug\instant-run_5e075c098216766bee56a720d32e00224dacc619.jar" />
+    </item>
+
+</items>

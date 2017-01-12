@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 10
+    //compileSdkVersion 'Honeywell International Inc.:Honeywell D7800 APIs :10'
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+        applicationId "com.honeywell.samples.decodesampleapi"
+        minSdkVersion 8
+        targetSdkVersion 8
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    provided files('lib/honeywell.jar')
+}

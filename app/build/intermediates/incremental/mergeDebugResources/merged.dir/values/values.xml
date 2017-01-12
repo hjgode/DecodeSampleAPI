@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ClearScreenMenu">Clear Screen</string>
+    <string name="File_Clear_screen">Clear screen</string>
+    <string name="PROMOT_CLICK_SCAN_BUTTON">Please click scan button or scan key to scan barcode.</string>
+    <string name="RESTORESYMBOLOGYSETTING">Default symbology setting</string>
+    <string name="SymbologySettingMenu">Symbology Setting</string>
+    <string name="app_name">DecodeSample API</string>
+</resources>
